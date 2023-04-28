@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Vaga>
+
+@foreach (var vaga in Model)
+{
+    <div class="col">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@vaga.titulo | @vaga.empresa</h5>
+                <p class="card-text">@vaga.salario</p>
+                <p class="card-text">
+                    <img src="~/css/trabalho.png" alt="icon" height="20" width="20">
+                    @vaga.descricao_vaga
+                </p>
+                <div class="text-end mt-2">
+                    <a class="btn btn-primary" style=" background-color: rgb(145, 31, 186);" href="@vaga.url" target="_blank"> Ir para Link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+}

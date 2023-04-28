@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model List<Vaga>
+    var n = 1;
+}
+        <div class="container text-center mt-5">
+            <a href="#top" class="button-fixed">
+                <img src="~/css/seta.png" alt="seta" height="20" width="20">
+            </a>
+            <div class="row" id="lista">
+            </div>
+            <div>
+                <button onclick="carregar()" id="carregar" class="btn btn-danger" type="button" style="left:1000px;">Carregar Mais</button>
+            </div>
+        </div>
+        <input value="1" id="valor" hidden />
+        <input value="@((int)ViewBag.limit)" id="limit" hidden />
+   <script>
+       document.getElementById("pesquisa").addEventListener("keyup", function(){
+           carregar()
+       })
+       window.addEventListener("DOMContentLoaded",function(){
+          carregar()
+       })
+       function carregar(){
+            $.ajax({
+                url: '@Url.Action("CarregarMais","Home")',
+                data: {
+                    skip: parseInt($("#valor").val()),
+                    pesquisa: $("#pesquisa").val()
+                },
+                dataType: "html",
+                success: function (sus) {
+                    var x = $("#valor").val()
+                    var z = parseInt(x)*30
+                    if (parseInt($("#limit").val())<=z){
+                        $("#carregar").hide()
+                    }
+                        
+                    
+                    $("#lista").empty()
+                    $("#valor").val(parseInt(x) + 1)
+                    console.log(x)
+                    console.log(z)
+                    $("#lista").append(sus)
+                },
+            })
+       }
+   </script>
+
+
+
+
+

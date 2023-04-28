@@ -1,0 +1,716 @@
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\appsettings.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Dapper.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\comerr64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\gssapi64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\k5sprt64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\krb5_64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\krbcc64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CoderCarrer\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Dapper.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrador\Desktop\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\appsettings.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Dapper.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\CrawlerNovo\CoderCarrer\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\appsettings.json
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Dapper.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Documents\CrawlerAtualizado\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\android\Documents\CrawlerAtualizado\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\appsettings.json
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Dapper.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Documents\drawler\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\android\Documents\drawler\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\appsettings.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Dapper.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\nanny\OneDrive\Área de Trabalho\Atividades do Curso\b\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\appsettings.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Dapper.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\novo\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\appsettings.json
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Dapper.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Documents\GitHub\novo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\android\Documents\GitHub\novo\obj\Debug\net6.0\ref\CoderCarrer.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\appsettings.json
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\CoderCarrer.staticwebassets.runtime.json
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\CoderCarrer.exe
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\CoderCarrer.deps.json
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\CoderCarrer.runtimeconfig.json
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Dapper.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\android\Downloads\GokuSSJ\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.csproj.AssemblyReference.cache
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.AssemblyInfoInputs.cache
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.AssemblyInfo.cs
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.csproj.CoreCompileInputs.cache
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cache
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.RazorAssemblyInfo.cs
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets\msbuild.CoderCarrer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets\msbuild.build.CoderCarrer.props
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoderCarrer.props
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoderCarrer.props
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\scopedcss\bundle\CoderCarrer.styles.css
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\scopedcss\projectbundle\CoderCarrer.bundle.scp.css
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.csproj.CopyComplete
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.dll
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\refint\CoderCarrer.dll
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.pdb
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\CoderCarrer.genruntimeconfig.cache
+C:\Users\android\Downloads\GokuSSJ\obj\Debug\net6.0\ref\CoderCarrer.dll
